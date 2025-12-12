@@ -8,8 +8,8 @@
 2. Entorno Lógico
    - Servidores
    - Dominios
-   - Firewall
-3. Forma Jurídica
+   - Subredes
+3. Caracteristicas
    - Nombre y logo
    - Inventario
 4. Clonación del proyecto
